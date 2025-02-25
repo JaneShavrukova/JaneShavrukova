@@ -14,7 +14,7 @@
 ---
 
 ## 💡 Skills & Technologies  
-- **Languages:** JavaScript (ES6+), TypeScript, HTML, CSS (SASS)  
+- **Languages:** JavaScript, TypeScript, HTML, CSS (SASS)  
 - **Frameworks & Libraries:** React.js, Redux.js, React Router  
 - **Tools:** Git, CSS Modules, LocalStorage, Fetch API  
 - **Methodologies:** BEM, Responsive Design  
