@@ -8,8 +8,8 @@
 
 ## 📜 Explore More
 
-- [Portfolio](https://janeshavrukova.github.io/Shavrukova-portfolio/)
-- [Resume](https://janeshavrukova.github.io/resume/)  
+- [Portfolio](https://janeshavrukova.github.io/Portfolio/)
+- [Resume](https://janeshavrukova.github.io/Resume/)  
 
 ---
 
