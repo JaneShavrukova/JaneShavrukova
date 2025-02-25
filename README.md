@@ -8,8 +8,8 @@
 
 ## 📜 Explore More
 
-- [Resume](https://github.com/JaneShavrukova/resume/blob/main/README.md)  
-- [Portfolio](README.md)
+- [Portfolio](https://janeshavrukova.github.io/Shavrukova-portfolio/)
+- [Resume](https://janeshavrukova.github.io/resume/)  
 
 ---
 
@@ -29,9 +29,10 @@
 ---
 
 ## 📫 Let's Connect!  
-- 🌐 **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/in/your-profile)  
-- 💾 **GitHub:** [github.com/janeshavrukova](https://github.com/janeshavrukova)  
-- 📧 **Email:** eva.shavrukova@gmail.com  
+- 🌐 [**Connect with me on LinkedIn**](https://www.linkedin.com/in/yevheniia-shavrukova)  
+- 💾 [**View my GitHub Projects**](https://github.com/JaneShavrukova)  
+- 📧 [**Email**](mailto:eva.shavrukova@gmail.com)  
+- 📞 **Phone:** +1 (778) 955-1609  
 
 Feel free to reach out — I'm always open to new opportunities and collaborations! 🚀
 
