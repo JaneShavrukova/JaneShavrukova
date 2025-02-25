@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Yevheniia!
 
-💻 **Front-End Developer** passionate about turning ideas into responsive and user-friendly web applications.  
+💻 **Front-End Developer** who loves bringing ideas to life through responsive and user-friendly design.
 🚀 Always curious, constantly learning, and excited to grow in web development!  
 📍 Based in Vancouver, Canada, and open to new challenges and collaborations.  
 
